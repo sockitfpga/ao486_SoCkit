@@ -1,3 +1,9 @@
+# ao486 port for SoCkit
+
+Ported by Somhic from https://github.com/MiSTer-devel/ao486_MiSTer
+
+Follows original readme
+
 # ao486 port for MiSTer by Sorgelig.
 
 Core was greatly reworked with many new features and performance added.
