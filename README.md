@@ -1,4 +1,4 @@
-# ao486 port for SoCkit
+# ao486 port for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
 
 Ported by Somhic from https://github.com/MiSTer-devel/ao486_MiSTer
 
